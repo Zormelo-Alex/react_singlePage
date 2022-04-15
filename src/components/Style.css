@@ -7,7 +7,7 @@
     font-weight: bolder;
     background-color: black;
 }
-.nav li:hover{
+.nav li:hover,.m{
     border-bottom: 1px solid white;
 }
 .smth{

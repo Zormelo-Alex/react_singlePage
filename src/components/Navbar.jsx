@@ -4,9 +4,9 @@ const Navbar = () => {
 
    <>
     <div>
-        <ul className="nav flex flex-row gap-10">
+        <ul className="nav text-red-500">
             <li>hulk</li>
-            <li>marvel</li>
+            <li className="m">marvel</li>
             <li>venom</li>
         </ul>
     </div>
